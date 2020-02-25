@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+rammsau/mnt/d/git/Marlin"
+		}
+	],
+	"remoteAuthority": "ssh-remote+rammsau",
+	"settings": {}
+}
